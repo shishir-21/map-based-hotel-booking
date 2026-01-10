@@ -18,3 +18,7 @@ A map-based hotel booking web application that allows users to explore nearby ho
 - Google Maps API
 
 ## Project Structure
+
+## Demo
+
+![Map Based Hotel Booking Demo](assets/images/londonmap1.webp)
