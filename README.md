@@ -1,23 +1,23 @@
-# Map-Based Hotel Booking System
+# Map Based Hotel Booking – WordPress
 
-A map-based hotel booking web application that allows users to explore nearby hotels on an interactive map, view hotel details, and simulate hotel bookings.
+📍 Map-based hotel booking system like OYO
 
 ## Features
-- Display hotels on an interactive map
-- Show hotel list with price and location
-- Click map marker to view hotel details
-- Hotel details page
-- Booking simulation (no real payment)
+- Google Maps hotel pins
+- Nearby hotel listing
+- Price & image display
 
 ## Tech Stack
+- WordPress
 - PHP
-- MySQL
-- HTML
-- CSS
 - JavaScript
 - Google Maps API
 
-## Project Structure
+## Installation
+1. Clone repo
+2. Copy plugin to wp-content/plugins
+3. Activate plugin
+
 
 ## Demo
 
