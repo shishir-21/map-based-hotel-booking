@@ -44,7 +44,6 @@ The interface is designed to be clean, simple, and user-friendly, allowing users
 
 ## 📸 Screenshots
 
-> (Add screenshots inside `assets/screenshots/` folder and update file names below)
 
 ### 🗺️ Map View
 ![Map View](assets/screenshots/map.png)
